@@ -21,14 +21,31 @@
 
 ---
 
-## 👨‍💻 About Me  
-I am a **Full Stack Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from **Gujarat**.  
+## 👨‍💻 About Me
 
-- 🎓 Pursuing **Computer Engineering** at LRRP Institute of Technology and Research.  
-- 🌱 **Exploring** new technologies & building innovative web applications.  
-- ⚡ Passionate about **solving problems** and **reading tech articles** in my free time.  
-- 📫 **How to reach me:**  
-  [![LinkedIn Badge](https://img.shields.io/badge/-Khushal%20Modi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/khushal-modi-8741752b2)
+Hi, I'm **Khushal Modi** – a Computer Engineering student passionate about full-stack web development and software engineering.  
+I enjoy building responsive, user-centric web applications and constantly exploring new tools and technologies.
+
+### 🛠️ Tech Stack
+- **Frontend**: HTML, CSS, JavaScript, React.js  
+- **Backend**: PHP, Python, Node.js  
+- **Database**: MySQL, MongoDB, PostgreSQL  
+- **Tools & IDEs**: GitHub, VS Code, Visual Studio, XAMPP  
+
+### 🏢 Experience
+- **TatvaSoft** 
+  _Worked on Angular, .NET (Entity Framework), and PostgreSQL with hands-on experience in CRUD operations, authentication, and AWS basics._
+
+- **Elsner Technologies Pvt. Ltd.** 
+  _Built an eCommerce site using React.js and FakeStore API, implementing product listing and cart functionality._
+
+### 🏆 Achievements
+- **Python for Data Science** – NPTEL (4-week course)
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khushal-modi-8741752b2)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Khushal9913)  
+📧 khushalmodi89@gmail.com
 
 ---
 
