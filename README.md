@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 </div>
 
 <div id="badges" align="center">
@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-**Khushal Modi** – a Computer Engineering student passionate about full-stack web development and software engineering.  
+I'm **Khushal Modi** – a Computer Engineering student passionate about full-stack web development and software engineering.  
 I enjoy building responsive, user-centric web applications and constantly exploring new tools and technologies.
 
 ### 🛠️ Tech Stack
