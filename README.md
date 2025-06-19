@@ -19,11 +19,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&width=435&lines=I'm+Khushal+Modi;Computer+Engineering+Student;Full+Stack+Web+Developer+🚀)
+
 ---
 
 ## 👨‍💻 About Me
 
-Hi, I'm **Khushal Modi** – a Computer Engineering student passionate about full-stack web development and software engineering.  
+**Khushal Modi** – a Computer Engineering student passionate about full-stack web development and software engineering.  
 I enjoy building responsive, user-centric web applications and constantly exploring new tools and technologies.
 
 ### 🛠️ Tech Stack
